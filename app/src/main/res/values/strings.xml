@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Five Crowns</string>
+    <integer name="cardKey">1</integer>
+</resources>
